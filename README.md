@@ -8,9 +8,9 @@ The analysis focuses on:
 - **Bike type preferences**  
 
 ## Key Insights
-✔️ Casual riders take **longer** trips than members.  
-✔️ Members prefer **commuter-heavy stations**, while casual riders start near **tourist areas**.  
-✔️ Casual riders use **electric bikes** more often than members.  
+- Casual riders take **longer** trips than members.  
+- Members prefer **commuter-heavy stations**, while casual riders start near **tourist areas**.  
+- Casual riders use **electric bikes** more often than members.  
 
 ## How to Run  
 1️⃣ **Clone the repo**:  
