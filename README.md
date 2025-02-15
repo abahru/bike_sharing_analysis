@@ -11,9 +11,3 @@ The analysis focuses on:
 - Casual riders take **longer** trips than members.  
 - Members prefer **commuter-heavy stations**, while casual riders start near **tourist areas**.  
 - Casual riders use **electric bikes** more often than members.  
-
-## How to Run  
-1️⃣ **Clone the repo**:  
-   ```sh
-   git clone https://github.com/abahru/bike_sharing_analysis.git
-   cd bike_sharing_analysis
