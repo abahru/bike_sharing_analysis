@@ -3,9 +3,9 @@
 ## Overview
 This project explores the differences between **member** and **casual riders** in the **Capital Bikeshare system (DMV area)** using **June 2024** data.  
 The analysis focuses on:
-- **Trip duration**
-- **Station popularity**
-- **Bike type preferences**  
+- Trip duration
+- Station popularity
+- Bike type preferences  
 
 ## Key Insights
 - Casual riders take **longer** trips than members.  
