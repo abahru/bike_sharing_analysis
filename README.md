@@ -1,7 +1,7 @@
 # Bike-Sharing Analysis: Member vs. Casual Rider Behavior
 
 ## Overview
-This project explores the differences between **member** and **casual riders** in the **Capital Bikeshare system (DMV area)** using **June 2024** data.  
+This project explores the differences between **member** and **casual riders** in the **Capital Bikeshare system** using **June 2024** data.  
 The analysis focuses on:
 - Trip duration
 - Station popularity
